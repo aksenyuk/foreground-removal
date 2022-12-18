@@ -1,5 +1,7 @@
 # Image Foreground Removal
 
+### Note: Download  `own_dataset` manually from `datasets` folder, instead of using `!wget` as it is in the source code.
+
 ### The algorithm performed:
 
 - Background/foreground segmentation by image comparison:
